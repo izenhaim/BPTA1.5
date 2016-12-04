@@ -6,6 +6,7 @@
 	* Regular Expressions
 	* Exceptions
 	* Collections Library
+	* Graphical Syntaxes
 	* ...
 2. Useful tools for programming
 	* Git and Github
